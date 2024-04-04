@@ -1,16 +1,23 @@
-### Hi there 👋
+**Hey coding geeks !!**
+# ⚡🤖⚡
+# **Manish K** , aka  The Perfectionist ...
 
-<!--
-**MANISH-K-07/MANISH-K-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A sophomore pursuing Computer Science Engineering with a passion for Java and open source.\
+I'm currently an active contributor at [Checkstyle](https://github.com/checkstyle/checkstyle).
 
-Here are some ideas to get you started:
+### Few bytes about this Perfectionist :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Technologies I'm familiar with : Java, Core Java, OOP Concepts, HTML, XML, Groovy, Maven, Shell
+* Ways to connect with me :
+  * Gmail at manish07070707@gmail.com
+  * Connect on LinkedIn [manish-k-kandrakota](https://www.linkedin.com/in/manish-k-kandrakota/)
+  * Istagram id [krish.man1sh](https://www.instagram.com/krish.man1sh/)
+  * On Discord as MANISH-K-07 - username manish_k_07
+
+### Wanna collaborate with this Perfectionist ??
+
+I love challenges and jump right in when I come across one. Feel free to reach out if you can challenge me with any interesting projects!
+
+### Motto of this Perfectionist :
+
+"Learning something of Everything and everything of Something"
