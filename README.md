@@ -1,11 +1,11 @@
 **Hey coding geeks !!**
-# ⚡🤖⚡
+# !⚡🤖⚡!
 # **Manish K** , aka  The Perfectionist ...
 
-A sophomore pursuing Computer Science Engineering with a passion for Java and open source.\
+An undergrad sophomore, Computer Science Engineering. With immense passion for Java and Open source.\
 I'm currently an active contributor at [Checkstyle](https://github.com/checkstyle/checkstyle).
 
-### Few bytes about this Perfectionist :
+### Few Bytes about this Perfectionist :
 
 * Technologies I'm familiar with : Java, Core Java, OOP Concepts, HTML, XML, Groovy, Maven, Shell
 * Ways to connect with me :
