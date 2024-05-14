@@ -7,7 +7,7 @@ I'm currently an active contributor at [Checkstyle](https://github.com/checkstyl
 
 ### Few Bytes about this Perfectionist :
 
-* Technologies I'm familiar with : Java, Core Java, OOP Concepts, HTML, XML, Groovy, Maven, Shell
+* Technologies I'm familiar with : Java, Core Java, OOP Concepts, HTML, XML, Groovy, Maven, Shell, Python, C++
 * Ways to connect with me :
   * Gmail at manish07070707@gmail.com
   * Connect on LinkedIn [manish-k-kandrakota](https://www.linkedin.com/in/manish-k-kandrakota/)
