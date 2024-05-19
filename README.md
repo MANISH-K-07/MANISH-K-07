@@ -2,13 +2,14 @@
 # !⚡🤖⚡!
 # **Manish K** , aka  The Perfectionist ...
 
-An undergrad sophomore, Computer Science Engineering. With immense passion for Java and Open source.\
-I'm currently an active contributor at [Checkstyle](https://github.com/checkstyle/checkstyle).
+An undergrad sophomore, Computer Science Engineering. With immense passion for Open source and Java.\
+I have colossal passion towards Research & Technical Writing, also published my [paper](https://github.com/MANISH-K-07/IEEE-Research-Papers) at IEEE. \
+Currently an active contributor at [Checkstyle](https://github.com/checkstyle/checkstyle).
 
 ### Few Bytes about this Perfectionist :
 
 * **Technologies I'm familiar with :** \
-  Java, Core Java, OOP Concepts, HTML, XML, Groovy, Maven, Shell, Python, C++, JavaScript
+  Java, OOP, Python, C++, JavaScript, HTML, XML, Maven, Docker, Git, GitHub Api, Command Line Interface, Groovy, Shell
 * **Ways to connect with me :**
   * Gmail at manish07070707@gmail.com
   * Connect on LinkedIn [manish-k-kandrakota](https://www.linkedin.com/in/manish-k-kandrakota/)
