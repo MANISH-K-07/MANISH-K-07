@@ -9,7 +9,7 @@ Currently an active contributor at [Checkstyle](https://github.com/checkstyle/ch
 ### Few Bytes about this Perfectionist :
 
 * **Technologies I'm familiar with :** \
-  Java, OOP, Python, C++, JavaScript, HTML, XML, Maven, Docker, Git, GitHub Api, Command Line Interface, Groovy, Shell
+  Java, OOP, Python, C++, JavaScript, HTML, XML, Maven, Docker, Git, GitHub Api, Command Line Interface, Markdown, Shell
 * **Ways to connect with me :**
   * Gmail at manish07070707@gmail.com
   * Connect on LinkedIn [manish-k-kandrakota](https://www.linkedin.com/in/manish-k-kandrakota/)
