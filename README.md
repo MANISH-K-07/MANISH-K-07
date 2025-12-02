@@ -32,7 +32,9 @@ This experience helped develop skills in:
 🤖 Technical Skills :
 
 Languages: Java, Python, JavaScript
+
 Tools & Frameworks: Flutter, Node.js, Git, Github, Docker
+
 Core Interests:
 
 - Static Analysis & Program Quality
