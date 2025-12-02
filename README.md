@@ -71,7 +71,7 @@ Email: manish07070707@gmail.com
 
 GitHub: [MANISH-K-07](https://github.com/MANISH-K-07)
 
-LinkedIn: [manish-k-kandrakota](www.linkedin.com/in/manish-k-kandrakota)
+LinkedIn: [manish-k-kandrakota](https://www.linkedin.com/in/manish-k-kandrakota/)
 
 ---
 🪢 Summary Statistics :
