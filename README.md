@@ -1,5 +1,4 @@
 ### Manish Krishna Kandrakota — Software Developer & Open-Source Contributor
-#### Specializing in Software Engineering and Computational Finance.
 
 ---
 ⭐ Profile Summary :
@@ -53,8 +52,6 @@ Core Interests:
 I am seeking admission to a top-tier Masters program in Computer Science, particularly those emphasizing:
 
 - Advanced software engineering
-
-- Computational Finance
 
 - Distributed and large-scale systems
 
