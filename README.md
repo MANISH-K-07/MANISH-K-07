@@ -10,7 +10,7 @@ I am currently preparing to pursue a Masters in Computer Science at a top global
 👉🏻 You can view or download my resume here: [MANISH-K-07/Resume](https://github.com/MANISH-K-07/Resume)
 
 ---
-## 📈 Research Experience :
+### 📈 Research Experience :
 
 Published in IEEE Xplore (Sophomore Year)
 Title: [Charity with Clarity : Crowdfunding using Smart contracts](https://ieeexplore.ieee.org/document/10921771)
@@ -31,7 +31,7 @@ This experience helped develop skills in:
 👉🏻 You can view the Full paper and the Smart Contract here: [MANISH-K-07/Research](https://github.com/MANISH-K-07/Research)
 
 ---
-## 🏗️ Projects :
+### 🏗️ Projects :
 
 | Name        | Description                                                                 | Domain                                                     |
 |-------------|-----------------------------------------------------------------------------|------------------------------------------------------------|
@@ -43,7 +43,16 @@ This experience helped develop skills in:
 | [ModelTrace](https://github.com/MANISH-K-07/ModelTrace)  | A research-grade framework for inspecting, debugging, and stress-testing ML models | Machine Learning Systems & Model Interpretability          |
 
 ---
-## 🤖 Technical Skills :
+
+### ✒️ Blogs & Articles :
+
+I actively document my technical work through long-form articles that break down complex systems into first-principles explanations. From compilers and program analysis to distributed systems and machine learning systems, I write in-depth technical blogs that cover design decisions, implementation details, experiments, limitations, and research relevance—treating documentation as an integral part of engineering, not an afterthought. I also write articles that share my personal experiences, mistakes—that make me human, and my learning journey.
+
+- [Medium](https://medium.com/@MANISH-K-07) 𓂃🪶 
+- [Hashnode](https://hashnode.com/@MANISH-K-07) 𓂃🪶 
+
+---
+### 🤖 Technical Skills :
 
 Languages: Java, Python, JavaScript, HTML, Solidity
 
@@ -66,7 +75,7 @@ Core Interests:
 - Machine Learning & Artificial Intelligence
 
 ---
-## 🧠 Academic & Career Objectives :
+### 🧠 Academic & Career Objectives :
 
 I am seeking admission to a top-tier Masters program in Computer Science, particularly those emphasizing:
 
@@ -83,7 +92,7 @@ I am seeking admission to a top-tier Masters program in Computer Science, partic
 My long-term goal is to work on engineering teams that build foundational tools, platforms, and systems used by developers and organizations globally.
 
 ---
-## ☎ Contact :
+### ☎ Contact :
 
 Email: manish07070707@gmail.com
 
@@ -92,13 +101,15 @@ GitHub: [MANISH-K-07](https://github.com/MANISH-K-07)
 LinkedIn: [manish-k-kandrakota](https://www.linkedin.com/in/manish-k-kandrakota/)
 
 ---
-## 🪢 Summary Statistics :
+### 🪢 Summary Statistics :
 
 - IEEE-published author
 
 - 100+ open-source contributions to Checkstyle
 
 - Extensive Projects Portfolio
+
+- Technical Blogs @ Medium, Hashnode
 
 - Experience across software development, tooling, and mobile engineering
 
