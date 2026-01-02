@@ -7,7 +7,7 @@ My primary technical experience comes from contributing extensively to Checkstyl
 
 I am currently preparing to pursue a Masters in Computer Science at a top global university, with the goal of becoming a systems-focused software engineer capable of building impactful, large-scale developer tools and software systems.
 
-👉🏻 You can view or download my resume here: [MANISH-K-07/Resume](https://github.com/MANISH-K-07/Resume)
+👉🏻 You can view or download my **Resume** and **Curriculum vitae** here: [MANISH-K-07/Resume](https://github.com/MANISH-K-07/Resume)
 
 ---
 ### 📈 Research Experience :
