@@ -54,9 +54,9 @@ I actively document my technical work through long-form articles that break down
 ---
 ### 🤖 Technical Skills :
 
-Languages: Java, Python, JavaScript, HTML, Solidity
+Languages: Java, Python, JavaScript, C++ , Solidity
 
-Tools & Frameworks: Git, Github API, Flutter, Node.js, Docker
+Tools & Frameworks: Git, Github API, CI/CD, Flutter, Node.js, Docker
 
 Core Interests:
 
@@ -75,9 +75,27 @@ Core Interests:
 - Machine Learning & Artificial Intelligence
 
 ---
+
+### 🎖️ Professional Coursework & Certifications :
+
+- **Azure Fundamentals (AZ-900)** — Microsoft Learn (Completed, Dec 2025)
+
+    (Cloud concepts, Azure architecture, management & governance)
+
+- **Introduction to Linux** — LinuxFoundationX LFS101x (edX Coursework – Completed, Dec 2025)
+
+- **Pearson Certified** – Business English (English Expert - [Credential](https://www.credly.com/badges/3114470a-0f55-44f0-8009-f53eea557275))
+
+- **ISRO-IIRS** — Overview of Geo-computation & Geo-web services (Issued Jan 2024)
+
+  (Practical, real-world applications using Python)
+
+---
 ### 🧠 Academic & Career Objectives :
 
 I am seeking admission to a top-tier Masters program in Computer Science, particularly those emphasizing:
+
+- Static Analysis & Software Security
 
 - Advanced software engineering
 
@@ -86,8 +104,6 @@ I am seeking admission to a top-tier Masters program in Computer Science, partic
 - Cloud and platform infrastructure
 
 - Developer tooling and automation
-
-- Program analysis
 
 My long-term goal is to work on engineering teams that build foundational tools, platforms, and systems used by developers and organizations globally.
 
