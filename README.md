@@ -27,7 +27,7 @@
 </div>
 
 
-<img align="right" width="349" src="https://github.com/MANISH-K-07/MANISH-K-07/blob/main/assets/krish_portfolio.gif" alt="coder gif"/>
+<img align="right" width="351" src="https://github.com/MANISH-K-07/MANISH-K-07/blob/main/assets/krish_portfolio.gif" alt="coder gif"/>
 
 
 ### 👾 &nbsp; `whoami`
