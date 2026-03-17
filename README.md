@@ -1,6 +1,6 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,60:1a2332,100:0d1117&height=230&section=header&text=Manish%20Krishna%20Kandrakota&fontsize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Systems%20Engineer%20%C2%B7%20Static%20Analysis%20%C2%B7%20Compiler%20%26%20Security%20Tooling&descAlignY=74&descColor=58a6ff&descSize=14&rotate=-3)](https://manishkrishnakandrakota.is-a.dev/)
+[![header](https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1a2332,100:0d1117&height=220&section=header&text=Manish%20Krishna%20Kandrakota&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Systems%20Engineer%20%7C%20Static%20Analysis%20%7C%20Compiler%20%26amp%3B%20Security%20Tooling&descAlignY=68&descColor=58a6ff&descSize=14)](https://manishkrishnakandrakota.is-a.dev/)
 
 </div>
 
