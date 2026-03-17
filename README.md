@@ -26,7 +26,9 @@
 
 </div>
 
-<img align="right" width="265" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="coder gif"/>
+
+<img align="right" width="343" src="https://github.com/MANISH-K-07/MANISH-K-07/blob/main/assets/krish_portfolio.gif" alt="coder gif"/>
+
 
 ### 👾 &nbsp; `whoami`
 
@@ -44,14 +46,13 @@ status : BUILDING
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MANISH-K-07&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/MANISH-K-07)
 
-</div>
-
-I'm a final-year CS undergraduate focused on **static analysis**, **distributed systems**, **software security**, and **compiler design** — building systems from first principles and writing deep-dive technical blogs about everything I learn.
+Building resilient distributed systems, compilers, and security tools.
 
 [![Resume](https://img.shields.io/badge/↓_Resume-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/MANISH-K-07/Resume/blob/main/ManishKrishnaKandrakotaResume.pdf)
 [![Email](https://img.shields.io/badge/manish07070707@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:manish07070707@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/manish-k-kandrakota/)
 
+</div>
 
 <br clear="right"/>
 
