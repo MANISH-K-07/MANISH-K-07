@@ -48,7 +48,7 @@ status : BUILDING
 
 I'm a final-year CS undergraduate focused on **static analysis**, **distributed systems**, **software security**, and **compiler design** — building systems from first principles and writing deep-dive technical blogs about everything I learn.
 
-[![Resume](https://img.shields.io/badge/↓_Resume-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/MANISH-K-07/Resume)
+[![Resume](https://img.shields.io/badge/↓_Resume-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/MANISH-K-07/Resume/blob/main/ManishKrishnaKandrakotaResume.pdf)
 [![Email](https://img.shields.io/badge/manish07070707@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:manish07070707@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/manish-k-kandrakota/)
 
@@ -255,6 +255,8 @@ Research-grade framework for inspecting, debugging, and stress-testing ML models
 [![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a2332,100:0d1117&height=3&section=header)](https://github.com/MANISH-K-07)
 
 </div>
+
+### 🪶 &nbsp; `Let's Connect`
 
 <div align="center">
 
