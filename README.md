@@ -277,6 +277,6 @@ Research-grade framework for inspecting, debugging, and stress-testing ML models
     
 `© 2026 Manish Krishna Kandrakota — Built from scratch.`
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a2332,100:0d1117&height=120&section=footer)](https://github.com/MANISH-K-07)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a3a5c,100:0d1117&height=120&section=footer)](https://github.com/MANISH-K-07)
 
 </div>
