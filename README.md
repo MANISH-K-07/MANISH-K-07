@@ -71,15 +71,11 @@ Building resilient distributed systems, compilers, and security tools.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANISH-K-07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&border_radius=10)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH-K-07&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10)
+[![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MANISH-K-07&theme=github_dark)](https://github.com/MANISH-K-07)
 
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MANISH-K-07&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=eeeeee&sideNums=eeeeee&dates=8b949e&border_radius=10)](https://github.com/MANISH-K-07)
-
-<br>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MANISH-K-07&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/MANISH-K-07)
 
 <br>
 
