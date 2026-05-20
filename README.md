@@ -79,7 +79,11 @@ Building resilient distributed systems, compilers, and security tools.
 
 <br>
 
+<!--
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MANISH-K-07&theme=github-compact&hide_border=true&area=true&area_color=58a6ff&line=3fb950&point=58a6ff&bg_color=0d1117&color=8b949e&radius=8)](https://github.com/MANISH-K-07)
+
+-->
 
 </div>
 
