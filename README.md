@@ -15,7 +15,7 @@
 <br>
 
 [![CMU](https://img.shields.io/badge/CMU_MSIS_·_Fall_2026-C41230?style=for-the-badge&logoColor=white)](https://www.cmu.edu/)
-[![IEEE](https://img.shields.io/badge/IEEE_Published_Author-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10921771)
+[![IEEE](https://img.shields.io/badge/IEEE_Published_Author-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/337189567186735)
 
 </div>
 
@@ -38,7 +38,7 @@ alias  : Krish
 degree : B.Tech CSE  →  SNIST, Hyderabad, India
 admit  : Carnegie Mellon University · MSIS · Fall 2026 🎓
 oss    : 100+ merged PRs → checkstyle/checkstyle
-paper  : IEEE Xplore · ICRISST 2024
+paper  : IEEE Xplore · ICRISST 2024 · ICSSAS 2026
 status : BUILDING
 ```
 
