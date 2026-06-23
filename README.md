@@ -173,6 +173,44 @@ Building resilient distributed systems, compilers, and security tools.
 
 <div align="center">
 
+<br>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/ICSSAS_2026-1a2332?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/✔_Published-238636?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Capstone_Project-3a1a5c?style=for-the-badge&logoColor=white" />
+
+<br>
+
+### 🔗 SphinxATS: A Multi-Attribute AI-based Decision Support System <br>for Automated Resume Screening and Candidate Ranking
+
+<br>
+
+*Explored NLP, Multi-Attribute Optimization, Explainable AI, and Decision Support Systems.* <br>
+*System design and implementation in Modular Python and Flask processing engine, NLP text pipelines*
+
+<br>
+
+[![Read Paper](https://img.shields.io/badge/Read_Full_Paper_↗-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11559449)
+&nbsp;
+[![Research Repo](https://img.shields.io/badge/View_on_GitHub_↗-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANISH-K-07/Research)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+<div align="center">
+
 [![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a2332,100:0d1117&height=3&section=header)](https://github.com/MANISH-K-07)
 
 </div>
