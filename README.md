@@ -36,7 +36,7 @@
 name   : Manish Krishna Kandrakota
 alias  : Krish
 degree : Carnegie Mellon University · MSIS · Class of '28
-       : B.Tech CSE  →  SNIST, Hyderabad, India 🎓
+         B.Tech CSE  →  SNIST, Hyderabad, India 🎓
 oss    : 100+ merged PRs → checkstyle/checkstyle
 paper  : IEEE Xplore · ICRISST 2024 · ICSSAS 2026
 status : BUILDING
