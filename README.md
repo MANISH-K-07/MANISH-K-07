@@ -35,8 +35,8 @@
 ```yaml
 name   : Manish Krishna Kandrakota
 alias  : Krish
-degree : Carnegie Mellon University · MS Information Security · Class of '28
-       : B.Tech Computer Science & Engineering → SNIST, Hyderabad, India 🎓
+degree : Carnegie Mellon University · MSIS · Class of '28
+       : B.Tech CSE  →  SNIST, Hyderabad, India 🎓
 oss    : 100+ merged PRs → checkstyle/checkstyle
 paper  : IEEE Xplore · ICRISST 2024 · ICSSAS 2026
 status : BUILDING
