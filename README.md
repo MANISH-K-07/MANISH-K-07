@@ -14,7 +14,7 @@
 
 <br>
 
-[![CMU](https://img.shields.io/badge/CMU_MSIS_·_Fall_2026-C41230?style=for-the-badge&logoColor=white)](https://www.cmu.edu/)
+[![CMU](https://img.shields.io/badge/Carnegie_Mellon_·_MSIS-C41230?style=for-the-badge&logoColor=white)](https://www.cmu.edu/)
 [![IEEE](https://img.shields.io/badge/IEEE_Published_Author-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/337189567186735)
 
 </div>
@@ -35,8 +35,8 @@
 ```yaml
 name   : Manish Krishna Kandrakota
 alias  : Krish
-degree : B.Tech CSE  →  SNIST, Hyderabad, India
-admit  : Carnegie Mellon University · MSIS · Fall 2026 🎓
+degree : Carnegie Mellon University · MS Information Security · Class of '28
+       : B.Tech Computer Science & Engineering → SNIST, Hyderabad, India 🎓
 oss    : 100+ merged PRs → checkstyle/checkstyle
 paper  : IEEE Xplore · ICRISST 2024 · ICSSAS 2026
 status : BUILDING
